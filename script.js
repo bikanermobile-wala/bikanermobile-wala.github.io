@@ -12,7 +12,7 @@ const SHOP = {
 
 const PRODUCTS = [
   { img: "https://i.ibb.co/R1X34wC/IMG-0131.jpg", name: "iPhone 17 Pro Max", spec: "256GB · Silver", badge: "New", series: "iPhone 17" },
-  { img: "https://i.ibb.co/twLPdg0F/IMG-0130.jpg", name: "iPhone 17 Pro", spec: "256GB · Orange", badge: "New", series: "iPhone 17" },
+  { img: "https://i.ibb.co/twLPdg0F/IMG-0130.jpg", name: "iPhone 17 Pro", spec: "256GB · Orange", badge: "out of stock", series: "iPhone 17" },
   { img: "https://i.ibb.co/chB3G8y2/IMG-0129.jpg", name: "iPhone 17 Pro", spec: "256GB · Silver", badge: "New", series: "iPhone 17" },
   { img: "https://i.ibb.co/8nY5StvZ/IMG-0128.jpg", name: "iPhone 17 Pro Max", spec: "256GB · Orange", badge: "New", series: "iPhone 17" },
   { img: "https://i.ibb.co/0yKRgKLh/IMG-0127.jpg", name: "iPhone 17 Pro", spec: "256GB", badge: "Active Unit", series: "iPhone 17" },
