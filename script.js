@@ -34,7 +34,9 @@ const PRODUCTS = [
   { img: "https://i.ibb.co/kgQNW4Nj/IMG-0111.jpg", name: "Huawei Mate XT Trifold", spec: "", badge: "New", series: "Huawei" },
   { img: "https://i.ibb.co/CKQCgtTT/IMG-0110.jpg", name: "iPhone 15 Pro", spec: "256GB · Natural Titanium", badge: "", series: "iPhone 15" },
   { img: "https://i.ibb.co/Xr6FsyLS/578f0f0c-82c0-41e1-b83f-6e136d7055ad.jpg", name: "Samsung Galaxy S25 Ultra", spec: "256GB", badge: "New", series: "Samsung" },
-  { img: "https://i.ibb.co/7dC3Mfx4/79823822-559f-4dd5-a735-98cfa8a9d7ee.jpg", name: "Ipad 10th Generation", spec: "64GB · Pink", badge: "New Type Condition", series: "Ipad" }
+  { img: "https://i.ibb.co/7dC3Mfx4/79823822-559f-4dd5-a735-98cfa8a9d7ee.jpg", name: "Ipad 10th Generation", spec: "64GB · Pink", badge: "New Type Condition", series: "Ipad" },
+  { img: "https://i.ibb.co/20gGRWRz/f1b50a92-8839-4770-b549-9197534224b4.jpg", name: "Iphone 14 Pro Max", spec: 128GB · Gold Edition", badge: "Top Condition", series: "Iphone" },
+  { img: "https://i.ibb.co/t5QzJz7/33c5db1a-d4c0-44c5-a531-58459c6ed5ed.jpg", name: "Iphone 14 Pro Max", spec: 128GB · Deep Purple", badge: "Top Condition", series: "Iphone" }
 ];
 function waLink(product) {
   const num = SHOP.phones[0].replace("+", "");
